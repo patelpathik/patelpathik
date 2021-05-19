@@ -7,7 +7,7 @@ Earlier working with Product Based Company in Ahmedabad, IN for a year. Now free
 
 Skills: Flutter / Node.js / JS / HTML / CSS
 
-- 🔭 I’m currently working on Fresh Food (UI Kit) 
+- 🔭 I’m currently working on Fresh Food (UI Kit) [<img src='https://seeklogo.com/images/G/google-play-store-logo-FA292E6779-seeklogo.com.png' alt='googleplay' height='15'>](https://play.google.com/store/apps/details?id=com.pathikpatel.fresh_food), [UI Kit](https://www.behance.net/gallery/87629875/Fresh-Food-UI-Kit-for-Adobe-XD) designed by [Daniel White](https://www.behance.net/forever-dansky) & [Lindsay Munro](https://www.behance.net/lindsaymun78e5).
 - 🌱 I’m currently learning Node.js 
 - 🤔 I’m looking for help with flutter packages 
 - 💬 Ask me about Flutter / Dart / JS 
